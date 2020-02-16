@@ -1,0 +1,23 @@
+{
+  "name": "jslovers-typescript-workshop",
+  "version": "1.0.0",
+  "description": "Repo for TypeScript talk @JSLovers",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc src/types.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekas/jslovers-typescript-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekas/jslovers-typescript-workshop/issues"
+  },
+  "homepage": "https://github.com/ekas/jslovers-typescript-workshop#readme",
+  "devDependencies": {
+    "typescript": "^3.9.0-dev.20200215"
+  }
+}

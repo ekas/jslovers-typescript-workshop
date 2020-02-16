@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Avoid commit of JS files
+*.js
