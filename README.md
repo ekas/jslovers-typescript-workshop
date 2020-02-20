@@ -1,6 +1,6 @@
 # jslovers-typescript-workshop
 
-Repo for TypeScript talk @JSLovers
+Repo for TypeScript talk @JSLovers - [Slides](https://slides.com/ekaspreetsingh/jslovers-why-typescript/)
 
 ## Why a Type System for JavaScript
 
